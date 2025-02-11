@@ -3,3 +3,5 @@ faiss-cpu
 sentence-transformers
 torch
 transformers
+langchain_community
+langchain_huggingface
